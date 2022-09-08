@@ -497,7 +497,7 @@
                 <para>Creates a new array when the property is accessed. Thread-safe.</para>
             </summary>
         </member>
-        <member name="P:BepInEx.Configuration.ConfigFile.System#Collections#Generic#IDictionary{BepInEx#Configuration#ConfigDefinition,BepInEx#Configuration#ConfigEntryBase}#Values">
+        <member name="P:BepInEx.Configuration.ConfigFile.Values">
             <summary>
                 Returns the ConfigEntryBase values that the ConfigFile contains.
                 <para>Creates a new array when the property is accessed. Thread-safe.</para>
